@@ -1,10 +1,17 @@
-moq
+Considerations
 ===
 
-[![Version](https://img.shields.io/nuget/vpre/Moq.svg)](https://www.nuget.org/packages/Moq)
-[![Downloads](https://img.shields.io/nuget/dt/Moq.svg)](https://www.nuget.org/packages/Moq)
-[![Documentation](https://img.shields.io/badge/docs-website-%23fc0)](http://moq.github.io/moq/)
-[![Discord Chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://discord.gg/8PtpGdu)
+This is just a fork of the [moq project](https://github.com/moq/moq).<br/>
+The goal is to bring in all the stuff developed in the main project, leaving out things like [SponsorLink](https://github.com/moq/moq/issues/1374) for as long as the license supports it.<br/>
+- Your privacy is valued, therefore we do not intend to obtain any personal information from your machine.<br/>
+- Your time is valued, so we don't intend to purposely degrade your build.<br/>
+- Your effort is valued, so we don't intend to pollute the output with non-test related messages.<br/>
+- The FOSS philosophy is respected, and at no time will you be charged for using this tool.
+
+BTW: **Be obedient**, and **DO NOT** make any donations to my ETH wallet! *0x5cDF219375d00FbDB55de48b72Aef730F65ab767*
+
+moq
+===
 
 <!-- #content -->
 The most popular and friendly mocking library for .NET
